@@ -1,3 +1,5 @@
 models:
   - name: int_vendas_metricas_de_vendas
-  
+    description: PREENCHER DEPOIS
+    columns:
+      - name: DATA_DO_PEDIDO
