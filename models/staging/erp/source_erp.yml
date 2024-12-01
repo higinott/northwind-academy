@@ -22,4 +22,7 @@ sources:
             tests:
               - unique
               - not_null
+      - name: employees
+      - name: orders
+      - name: order_details
               
